@@ -1,96 +1,59 @@
-<h1 align="center">Hi 👋, I'm Nandhini E</h1>
+You are an expert GitHub profile designer. Create a unique, attractive, animated GitHub profile README.md for me, based on my resume details below.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Frontend+Developer;Embedded+Systems+Enthusiast;UI%2FUX+Designer;ECE+Student+%7C+Final+Year" alt="Typing SVG" />
-</p>
+ABOUT ME
+- Name: Nandhini E
+- GitHub username: Nandhini-project2
+- Final-year B.E. Electronics and Communication Engineering student (2023-2027), Vivekanandha College of Technology for Women, CGPA 7.92
+- Aspiring Web Developer with a strong embedded/IoT background (hardware + software)
+- Email: nanhini2006@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nandhini-e-ece
+- GitHub: https://github.com/Nandhini-project2
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=header" />
-</p>
+SKILLS
+- Web: HTML5, CSS3, JavaScript (ES6), React, Node.js, Responsive Web Design
+- Programming & Database: C, Python, SQL
+- Embedded & IoT: Embedded C, Arduino, ESP8266/ESP32, Sensor Interfacing, IoT Concepts
+- UI/UX: Figma, Adobe XD, Wireframing, Visual Design
+- Tools: Git, GitHub, VS Code, Wokwi, Tinkercad
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nandhini-project2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Nandhini-project2?label=Followers&style=flat&color=0e75b6" alt="followers" />
-</p>
+EXPERIENCE
+- Front-End Development Intern, NGT Technology (Dec 2024)
+- Embedded and IoT Hardware Intern, EMATIX Embedded & Software Solutions (Jun 2025)
+- UI/UX Design Intern, Zidio Development
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nandhini-project2&theme=flat&column=4&margin-w=10&margin-h=10" alt="trophy" />
-  </a>
-</p>
+PROJECTS
+- Mini E-Commerce Shopping Cart (HTML, CSS, JavaScript): add/remove items, quantity updates, dynamic total price
+- Rainwater Prediction System (Arduino/ESP8266, Tinkercad): humidity and rain sensors, threshold-based rainfall prediction with real-time alerts
+- NovaMart: multi-vendor e-commerce marketplace UI/UX design in Figma and Adobe XD
 
----
+ACHIEVEMENTS
+- Embedded C and Microcontroller Programming (Naan Mudhalvan, TN Skills)
+- IoT Application using ESP32 (Naan Mudhalvan, in progress)
+- Artificial Intelligence Fundamentals (IBM SkillsBuild)
+- Presented "Edge Computing-Based Cyber Security" at Mahendra Engineering College
+- Presented "Stress Monitoring for Online Workers (IoT-Based)" at Kongu Engineering College
 
-### 🚀 About Me
-- 🎓 ECE Student passionate about technology and innovation
-- 💻 Aspiring Web Developer building practical, real-world projects
-- 🌐 Skilled in HTML, CSS & JavaScript, exploring React and embedded systems
-- 🌱 Currently learning **HTML, CSS, JavaScript, ESP32, and React.js**
-- 💬 Ask me about **frontend development, embedded systems, and UI/UX design**
-- 📫 Reach me at **nanhini2006@gmail.com**
-- 📄 Know about my experience: [Resume](https://drive.google.com/file/d/1fdxEt7St_1En0dTRs9_C-bnwgrl528il/view?usp=sharing)
-- 📝 I write on [LinkedIn](https://www.linkedin.com/in/nandhini-e-ece)
+DESIGN REQUIREMENTS
+- Theme: circuit-board / PCB inspired look, using a navy and white color palette (no green). It should show my "hardware meets software" identity.
+- Must look professional, clean, and unique, not like a generic template.
+- GitHub README only supports Markdown, HTML, images, GIFs and SVGs. Do NOT use JavaScript or custom CSS.
 
----
+ANIMATIONS AND ELEMENTS TO INCLUDE
+1. Animated header banner (capsule-render, waveform or circuit style) with my name
+2. Typing animation (readme-typing-svg) cycling through: "Aspiring Web Developer", "Embedded & IoT Enthusiast", "UI/UX Designer", "ECE Final-Year Student"
+3. Short "About Me" section with a few emojis (not overloaded)
+4. Skills section using skillicons.dev badges, grouped as Web / Embedded / Design / Tools
+5. Projects section as clean cards or a table, with a short description and tech used for each
+6. GitHub stats cards (github-readme-stats: stats + top languages) themed to match navy and white
+7. Contribution snake animation (Platane/snk) with the GitHub Actions workflow file included
+8. Experience as a simple timeline
+9. Achievements section
+10. Connect with me: LinkedIn and Email badges (shields.io), plus a profile views counter
+11. Animated footer wave
 
-### 💼 Experience & Projects
-
-| Organization | Project |
-|---|---|
-| EMATIX Embedded & Software Solutions | [Rain Water Prediction System](https://github.com/Nandhini-project2/Rain-water-prediction-system-) |
-| Zidio Development | [NovaMart — Multi-Vendor E-Commerce Marketplace](https://github.com/Nandhini-project2/-NovaMart-Multi-Vendor-E-Commerce-Marketplace) |
-| NGT Technology | [Shopping Cart App (JavaScript)](https://github.com/Nandhini-project2/shopping-Cart-application-for-javascript-) |
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/nandhini-e-ece" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/YDvTgJm7po/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/profile/nanhini2006" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandhini-project2&show_icons=true&theme=default&hide_border=true" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhini-project2&layout=compact&hide_border=true" alt="top langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhini-project2&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhini-project2&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" />
-</p>
+OUTPUT FORMAT
+- Give the complete README.md in one code block, ready to copy-paste
+- Give the snake workflow file (.github/workflows/snake.yml) in a separate code block
+- Use my username Nandhini-project2 in all URLs
+- Add short step-by-step instructions to set it up
+- Keep it balanced: attractive but not cluttered, and it must load fast
